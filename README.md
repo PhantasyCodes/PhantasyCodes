@@ -2,12 +2,10 @@
 
 <!-- ![Blue Peach Watch Movie and Chill Twitter Banner (3)](https://user-images.githubusercontent.com/97814431/168457214-e9e85f76-04b1-4c2d-892f-b72bfdf635a6.png) -->
 
-<h1 align="center">Hi there <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, I'm Leah Thompson</h1> 
-
-
+<h1 align="center">Hi there <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, I'm David King</h1> 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <b align="center"></b> <br>
-- <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/girl-light-skin-tone.png" height= 15px width = 15px> My name's Leah and I'm from Florida
+- <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/girl-light-skin-tone.png" height= 15px width = 15px> My name's David and I'm from Nairobi, Kenya
 - 🔭 I’m a software engineer with a background in mathematics.
 - 🌱 I’m passionate about full stack web development, and educational websites and applications.
 - 👯 I’m looking to collaborate on Open-source Projects.
