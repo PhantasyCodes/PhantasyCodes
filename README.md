@@ -17,29 +17,3 @@
 
 <h3 align="center">My Stack</h3>
 <p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/97814431/170081210-73593c53-48ce-4ad1-bd96-d370c124cc2c.png" alt="express" width="90" height="40"/></a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-<h2 align="center">Highlighted Projects </h2>
-<div align="center">
-
-<h2 align="center">Contact Me:
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=leahthompson01" alt="sudnyeshtalekar" /> </p>
-<a href="https://twitter.com/LeahTCodes">
-  <img  alt="Leah's Twitter" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://github.com/leahthompson01">
-  <img  alt="Sudnyesh's Github" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://leahthompson.netlify.app/">
-  <img width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/write-dot-as.svg" />
-</a>
-  </h2>
-  </ br>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=leahthompson01&show_icons=true&theme=dark" alt="leahthompson" /> 
-</p>
-
-**I am Into ,**
-
-**Web Design , Responsive Design , and EdTech Applications**
-
-<br />
