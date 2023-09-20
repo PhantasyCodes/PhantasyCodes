@@ -12,5 +12,4 @@
 - 🥛 I’m looking to collaborate on Open-source Projects.
 - 🥛 Ask me about Websites, Apps, pretty much anything. I'm willing to learn. 💸
 
-<p>With my degree in mathematics and experience in teaching, I was always looking for solutions to help students learn more effectively. Throughout teaching, I saw students struggle with learning because the tools we had were simply not successful in bridging the educational gap for students. I felt called to pick up Software Engineering with the goal of helping students learn more efficiently and fell in love with using tech to solve problems.
-</ p>
+<p>I like coding in React, React Native and Jave, but I'm now working on pivoting to Svelte and Go for my apps. I also love doing UI/UX designs. For me it's always felt so natural, and I'm always looking to learn about technologies to make my UXs more and more modern and cool. I'm still doing my undergraduate degree in Computer Science at Strathmore. (Graduating in 2025 can't wait!).</ p>
