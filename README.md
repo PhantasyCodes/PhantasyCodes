@@ -12,4 +12,4 @@
 - 🥛 I’m looking to collaborate on Open-source Projects.
 - 🥛 Ask me about Websites, Apps, pretty much anything. I'm willing to learn. 💸
 
-<p>I like coding in React, React Native and Jave, but I'm now working on pivoting to Svelte and Go for my apps. I also love doing UI/UX designs. For me it's always felt so natural, and I'm always looking to learn about technologies to make my UXs more and more modern and cool. I'm still doing my undergraduate degree in Computer Science at Strathmore. (Graduating in 2025 can't wait!).</ p>
+<p>I like coding in React, React Native and Java, but I'm now working on pivoting to Svelte and Go for my apps. I also love doing UI/UX designs. For me it's always felt so natural, and I'm always looking to learn about technologies to make my UXs more and more modern and cool. I'm still doing my undergraduate degree in Computer Science at Strathmore. (Graduating in 2025 can't wait!).</ p>
